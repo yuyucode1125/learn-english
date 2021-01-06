@@ -81,3 +81,21 @@
 13. take
 14. live
 15. consider
+
+## 2021-01-05
+
+1. basketball
+2. put
+3. all 
+4. father
+5. often
+6. fish
+7. young
+8. car
+9. time
+10. communicate
+11. know
+12. wear
+13. monkey
+14. library
+15. my

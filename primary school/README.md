@@ -82,7 +82,7 @@
 14. live
 15. consider
 
-## 2021-01-05
+## 2021-01-06
 
 1. basketball
 2. put
@@ -99,3 +99,21 @@
 13. monkey
 14. library
 15. my
+
+## 2021-01-07
+
+1. farm
+2. compare
+3. floor
+4. yellow
+5. sheep
+6. next
+7. hi
+8. room
+9. watch
+10. driver
+11. whose
+12. game
+13. eat
+14. as
+15. afford

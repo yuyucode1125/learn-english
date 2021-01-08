@@ -117,3 +117,22 @@
 13. eat
 14. as
 15. afford
+
+## 2021-01-08
+
+1. science 
+2. at
+3. bottom
+4. copy
+5. afternoon
+6. answer
+7. be
+8. before
+9. candy
+10. brother
+11. bill
+12. much
+13. breath
+14. is
+15. deaf
+    

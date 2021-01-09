@@ -136,3 +136,21 @@
 14. is
 15. deaf
     
+
+## 2021-01-09
+
+1. tea
+2. communication
+3. think
+4. warn
+5. healthy
+6. window
+7. name
+8. date
+9. interesting
+10. nice
+11. ice
+12. TV
+13. story
+14. cost
+15. cup

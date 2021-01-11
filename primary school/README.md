@@ -26,7 +26,7 @@
 ## 2021-01-03
 
 1. camera
-2. us 
+2. us
 3. mom
 4. cancel
 5. colour
@@ -36,7 +36,7 @@
 9. cow
 10. wonderful
 11. American
-12. clean 
+12. clean
 13. August
 14. call
 15. could
@@ -44,7 +44,7 @@
 17. ruler
 18. juice
 19. Mrs
-20. on 
+20. on
 
 ## 2021-01-04
 
@@ -66,7 +66,7 @@
 
 ## 2021-01-05
 
-1. mum 
+1. mum
 2. like
 3. holiday
 4. slow
@@ -86,7 +86,7 @@
 
 1. basketball
 2. put
-3. all 
+3. all
 4. father
 5. often
 6. fish
@@ -120,7 +120,7 @@
 
 ## 2021-01-08
 
-1. science 
+1. science
 2. at
 3. bottom
 4. copy
@@ -135,7 +135,6 @@
 13. breath
 14. is
 15. deaf
-    
 
 ## 2021-01-09
 
@@ -154,3 +153,41 @@
 13. story
 14. cost
 15. cup
+
+## 2021-01-10
+
+1. how
+2. high
+3. tall
+4. night
+5. wash
+6. circle
+7. here
+8. go
+9. color
+10. her
+11. calendar
+12. red
+13. country
+14. visit
+15. want
+
+## 2021-01-11
+
+1. advice
+2. near
+3. cloud
+4. why
+5. courage
+6. comfortable
+7. autumn
+8. panda
+9. Asia
+10. believe
+11. welcome
+12. for
+13. corner
+14. we
+15. candle
+
+

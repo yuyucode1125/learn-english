@@ -190,4 +190,24 @@
 14. we
 15. candle
 
+## 2021-01-12
+
+1. cat
+2. come
+3. say
+4. yes
+5. sometimes
+6. week
+7. that
+8. train
+9. center
+10. agreement
+11. in
+12. leg
+13. corn
+14. noodle
+15. Chinese
+
+
+
 

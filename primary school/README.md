@@ -226,6 +226,24 @@
 14. ago
 15. rain
 
+## 2021-01-14
+
+1. him
+2. those
+3. college
+4. nurse
+5. tired
+6. write
+7. Australian
+8. sock
+9. cannot
+10. cute
+11. class
+12. listen
+13. some
+14. soup
+15. become
+
 
 
 

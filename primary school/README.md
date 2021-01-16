@@ -262,4 +262,20 @@
 14. sleep
 15. bottle
 
+## 2021-01-16
 
+1. stop
+2. bathroom
+3. milk
+4. coal
+5. down
+6. bed
+7. give
+8. this
+9. collect
+10. cancer
+11. beautiful
+12. age
+13. thank
+14. work
+15. place*

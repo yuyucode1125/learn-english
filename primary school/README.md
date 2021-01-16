@@ -244,6 +244,22 @@
 14. soup
 15. become
 
+## 2021-01-15
 
+1. wait
+2. away
+3. begin
+4. late
+5. arrive
+6. dress
+7. doctor
+8. spring
+9. deal
+10. among
+11. and
+12. subject
+13. ant
+14. sleep
+15. bottle
 
 

@@ -278,4 +278,22 @@
 12. age
 13. thank
 14. work
-15. place*
+15. place
+
+## 2021-01-17
+
+1. block
+1. carry
+1. chocolate
+1. better
+1. chicken
+1. duck
+1. baby
+1. study
+1. map
+1. early
+1. day
+1. blow
+1. aloud
+1. beef
+1. choose

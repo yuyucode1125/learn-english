@@ -297,3 +297,25 @@
 1. aloud
 1. beef
 1. choose
+
+## 2021-01-18
+
+1. orange
+1. bear
+1. police
+1. sun
+1. cartoon
+1. artist
+1. hot
+1. year
+1. cousin
+1. rice
+1. clear
+1. she
+1. cheap
+1. behind
+1. bye
+
+
+
+

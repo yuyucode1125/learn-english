@@ -316,7 +316,6 @@
 1. behind
 1. bye
 
-
 ## 2021-01-19
 
 1. evening
@@ -334,6 +333,24 @@
 1. long
 1. exercise
 1. careful
+
+## 2021-01-20
+
+1. education
+1. bamboo
+1. clock
+1. strong
+1. family
+1. almost
+1. awake
+1. walk
+1. short
+1. lake
+1. blue
+1. cap
+1. well
+1. goodbye
+1. small
 
 
 

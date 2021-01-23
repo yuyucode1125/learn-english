@@ -387,3 +387,21 @@
 1. brush
 1. head
 1. song
+
+## 2021-01-23
+
+1. sweater
+1. picture
+1. great
+1. around
+1. sorry
+1. hand
+1. pencil
+1. far
+1. but
+1. house
+1. cream
+1. word
+1. butter
+1. create
+1. girl

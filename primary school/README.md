@@ -459,3 +459,21 @@
 1. cinema
 1. dark
 1. sister
+
+## 2021-01-27
+
+1. have
+1. animal
+1. right
+1. countryside
+1. taxi
+1. ill
+1. cold
+1. meet
+1. breakfast
+1. advantage
+1. chemistry
+1. food
+1. jump
+1. fan
+1. let

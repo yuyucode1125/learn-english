@@ -477,3 +477,21 @@
 1. jump
 1. fan
 1. let
+
+## 2021-01-28
+
+1. English
+1. beach
+1. book
+1. crayon
+1. minute
+1. basic
+1. aunt
+1. computer
+1. blood
+1. where
+1. chess
+1. bird
+1. anyway
+1. box
+1. kitchen

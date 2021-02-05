@@ -621,3 +621,21 @@
 1. do
 1. careless
 1. April
+
+## 2021-02-05
+
+1. daughter
+1. both
+1. park
+1. difficult
+1. what
+1. face
+1. door
+1. woman
+1. appear
+1. agree
+1. lunch
+1. old
+1. about
+1. ear
+1. community

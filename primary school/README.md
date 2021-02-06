@@ -639,3 +639,22 @@
 1. about
 1. ear
 1. community
+
+## 2021-02-06
+
+
+1. along
+1. flower
+1. again
+1. white
+1. open
+1. control
+1. star
+1. bedroom
+1. blouse
+1. centre
+1. any
+1. daily
+1. kid
+1. your
+1. friend

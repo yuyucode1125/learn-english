@@ -676,3 +676,21 @@
 1. coat
 1. course
 1. green
+
+## 2021-02-08
+
+1. child
+1. too
+1. horse
+1. blackboard
+1. fine
+1. tomato
+1. half
+1. clothes
+1. cover
+1. dinner
+1. biscuit
+1. or
+1. hello
+1. classroom
+1. Mr

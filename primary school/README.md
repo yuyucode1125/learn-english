@@ -694,3 +694,22 @@
 1. hello
 1. classroom
 1. Mr
+
+## 2021-02-09
+
+
+1. plane
+1. body
+1. between
+1. worry
+1. beside
+1. brain
+1. it
+1. them
+1. china
+2. big
+3. photo
+4. drink
+5. airport
+6. umbrella
+7. card

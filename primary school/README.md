@@ -713,3 +713,21 @@
 5. airport
 6. umbrella
 7. card
+
+## 2021-02-10
+
+1. bread
+1. danger
+1. season
+1. beat
+1. chair
+1. art
+1. easy
+1. avoid
+1. address
+2. travel
+3. Asian
+4. Canadian
+5. baseball
+6. hair
+7. film

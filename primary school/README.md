@@ -749,3 +749,30 @@
 1. African
 1. can
 1. Canada
+
+## 2021-02-12
+
+1. city
+1. grandfather
+1. capital
+1. fruit
+1. elephant
+1. Africa
+1. there
+1. windy
+1. camp
+1. potato
+1. build
+1. up
+1. little
+1. burn
+1. add
+
+## 2021-02-13
+
+1. attend
+2. kind
+3. read
+4. month
+5. pig
+6. no

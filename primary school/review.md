@@ -85,3 +85,87 @@
 <br/>hungry hungry 
 
 </details>
+<details>
+  <summary><mark><font color=darkred>2021-02-15</font></mark></summary>
+  <br/>awful awful 可怕的；骇人的；难过的；极坏的；糟糕的；极讨厌的；非常的；极大的；
+  <br/>china china 中国；瓷器；瓷料；
+  <br/>centre centre 中央；中心；
+  <br/>green green 绿色；绿色的；青春；
+  <br/>also also 也；还；
+  <br/>choice choice 选择；
+  <br/>elephant elephant 大象；
+  <br/>zoo zoo 动物园；
+  <br/>century century 百年；世纪；
+  <br/>awful awful 可怕的；骇人的；难过的；非常的；
+  <br/>many many 许多的；许多人或物
+  <br/>dark 黑暗；深色的；
+  <br/>attend attend 参加；出席；
+  <br/>also also 也；还；
+  <br/>correct correct 正确的；改正；纠正；
+  <br/>fruit fruit 水果；
+  <br/>word word 单词；话；
+  <br/>century century 百年；世纪；
+  <br/>bedroom bedroom 卧室；寝室；
+  <br/>central central 中心的；中央的
+  <br/>star star 星星；恒星；明星；星形；
+  <br/>banana banana 香蕉；
+  <br/>kind kind 种类；性质；友善的；仁慈的；
+  <br/>correct correct 正确的；改正；纠正；
+  <br/>ancient ancient 古代的；远古的；
+  <br/>any any 任何；一些；
+  <br/>hear hear 听见；听到；听说；
+  <br/>awful awful 
+  <br/>community community 社区；共同体；共同性；共同；一致；
+  <br/>clothes clothes 衣服；
+  <br/>difficult difficult 困难的；难的；
+  <br/>kind kind 种类；性质；友善的；仁慈的；
+  <br/>also also 也；还；
+  <br/>ancient ancient 远古的；古代的；
+  <br/>conversation conversation  谈话；交谈；
+  <br/>crazy crazy 疯狂；着迷的；狂热的；发疯的；
+  <br/>century century 百年；世纪；
+  <br/>community community 社区；共同体；共同性；一致；
+  <br/>anyone anyone 任何人；
+  <br/>blind blind 瞎的；失明的；
+  <br/>kind kind 种类；性质；仁慈的；友善的；
+  <br/>girl girl 女孩；
+  <br/>you you 你；
+  <br/>conversation conversation 谈话；交谈；
+  <br/>correct correct  正确的；改正；纠正；
+  <br/>your your 你们的；
+  <br/>friend friend 朋友；助手；赞助者；
+  <br/>certain certain 确定的；肯定的；某些的；某个的；
+  <br/>blind blind 瞎的；失明的；
+  <br/>alone alone 独自的；单独的；独自地；单独地；
+  <br/>flower flower 花；
+  <br/>biscuit biscuit 饼干；松饼；淡黄褐色；
+  <br/>ancient ancient 古代的；远古的；
+  <br/>capital capital 首都；省会；大写字母；资本家
+  <br/>climb climb  攀登；攀爬；
+  <br/>community community 社区；共同体；共同性；一致；相同；
+  <br/>certain certain 确定的；肯定的；某些的；某个的；
+  <br/>blind blind 瞎的；失明的；；
+  <br/>alone 独自的；单独的；独自地；单独地；
+  <br/>windy windy 有风的；多风的；
+  <br/>biscuit biscuit 饼干；松饼；淡黄褐色；
+  <br/>ancient ancient 远古的；古代的；
+  <br/>capital capital 首都；省会；资本家；大写字母；
+  <br/>kind kind 种类；性质；仁慈的；友善的；
+  <br/>again again 再来；又；再；
+  <br/>certain certain 确定的；肯定的；某些的；某个的；
+  <br/>blind blind 瞎的；失明的；
+  <br/>alone alone 单独的；独自的；单独地；独自地；
+  <br/>love love 喜爱；热爱；爱；
+  <br/>biscuit biscuit 饼干；松饼；淡黄褐色；
+  <br/>conversation conversation 谈话；交谈；
+  <br/>sweater sweater 厚运动衫；毛衣；
+  <br/>best best 最好的；最好地；最；极；最佳；
+  <br/>ancient ancient 远古的；古代的；
+  <br/>capital capital 首都；省会；资本家；大写字母；
+  <br/>certain certain 确定的；肯定的；某些的；某个的
+  <br/>blind blind 瞎的；失明的；
+  <br/>alone alone 单独的；独自的；单独地；独自地；
+  <br/>biscuit biscuit 饼干；松饼；淡黄褐色；
+  <br/>conversation conversation 谈话；交谈；
+  <br/>sweater sweater 厚运动衫；毛衣；
+  </details>

@@ -85,8 +85,9 @@
 <br/>hungry hungry 
 
 </details>
+
 <details>
-  <summary><mark><font color=darkred>2021-02-15</font></mark></summary>
+  <summary><mark><font color=darkred>2021-02-16</font></mark></summary>
   <br/>awful awful 可怕的；骇人的；难过的；极坏的；糟糕的；极讨厌的；非常的；极大的；
   <br/>china china 中国；瓷器；瓷料；
   <br/>centre centre 中央；中心；
@@ -169,3 +170,66 @@
   <br/>conversation conversation 谈话；交谈；
   <br/>sweater sweater 厚运动衫；毛衣；
   </details>
+  <details> 
+  <summary><mark><font color=darkred>2021-02-17</font></mark></summary>
+  <br/>under under 在...下面；向...下面；
+  <br/>give give 给予；给；
+  <br/>bus bus 公共汽车；
+  <br/>duck duck 鸭子；零分；鸭肉
+  <br/>artist artist 艺术家；
+  <br/>fine fine 极好的；健康的；细的；纤细的；
+  <br/>hello hello 哈喽；喂；你好；
+  <br/>dinner dinner 晚餐；正餐；宴会；
+  <br/>beat beat 打；击；敲；赢；战胜；
+  <br/>soup soup 汤；汁；马力；
+  <br/>pencil pencil 铅笔；
+  <br/>tomato tomato 西红柿；番茄
+  <br/>kitchen kitchen 厨房；炊事人员;炊具
+  <br/>child child 孩子；儿童；
+  <br/>lake lake 湖；江；
+  <br/>bean bean 豆；豆荚；豆科植物；菜豆；豆形种子；
+  <br/>Mr Mr 男士；先生；
+  <br/>blackboard blackboard 黑板；
+  <br/>hair hair 头发；些微；毛发；
+  <br/>pencil pencil 铅笔；
+  <br/>morning morning 早上；早晨；上午；
+  <br/>kitchen kitchen 厨房；炊事人员；炊具；
+  <br/>advice advice 建议；忠告；劝告；
+  <br/>lake lake 江；湖；
+  <br/>bean bean 豆；豆科植物；豆荚；豆形种子；
+  <br/>dad dad 父亲；爸爸；爹爹；
+  <br/>half half 一半；半；半个；
+  <br/>hair hair 头发；毛发；些微；
+  <br/>let let 假设；让；允许；出租；
+  <br/>classroom classroom 教室；
+  <br/>but but 但是；除...外；
+  <br/>advice advice advise 建议；忠告；劝告；
+  <br/>cloudy cloudy 多云的；阴天的；
+  <br/>bean bean bean 豆科；豆；豆荚；豆科植物；豆形种子；
+  <br/>hand hand 手；传递；交递；
+  <br/>beef beef 牛肉；养；加强；
+  <br/>or or 或者；
+  <br/>cancer cancer 癌症；恶性肿瘤；
+  <br/>pencil pencil 铅笔；
+  <br/>house house 房子；住宅；
+  <br/>kitchen kitchen 厨师；炊事人员；炊具；
+  <br/>lake lake 湖；
+  <br/>eye eye 眼睛；
+  <br/>bathroom bathroom 浴室；盥洗室；
+  <br/>hair hair 头发；毛发；些微；
+  <br/>kite kite 风筝；骗钱；涂改；
+  <br/>sorry sorry 对不起；抱歉的；
+  <br/>place place 住址；地方；安排；放置；
+  <br/>advice advice 建议；忠告；劝告；
+  <br/>create create 创造；创建；创作；
+  <br/>bean bean 豆；豆科植物；豆荚；豆形种子；
+  <br/>great great 极好地；很好地；很棒地；巨大的；重大的；极大的；伟大的；好极了；重要的；大师；
+  <br/>spring spring 春天；春季；泉水；泉；跳跃；跳起；弹起；
+  <br/>short short 短的；个子矮的；
+  <br/>kite kite 风筝；骗钱；涂改；
+  <br/>picture picture 照片；头像；图画；
+  <br/>pen pen 钢笔；
+  <br/>season season 季节；赛季；季；
+  <br/>yesterday yesterday 昨天；在昨天；
+  <br/>kite kite 
+   </details>

@@ -233,3 +233,68 @@
   <br/>yesterday yesterday 昨天；在昨天；
   <br/>kite kite 
    </details>
+<details> 
+  <summary><mark><font color=darkred>2021-02-18</font></mark></summary>
+  <br/>almost almost 几乎；差不多
+  <br/>careless careless 粗心的；
+  <br/>farmer farmer 农场主；农民；
+  <br/>clear clear 清楚的；明确的；清除
+  <br/>evening evening 晚上；傍晚；
+  <br/>photo photo 照片；
+  <br/>bottle bottle 瓶子；一瓶的容量；
+  <br/>card card 卡片；明信片；纸牌；贺卡；
+  <br/>weather weather 天气；
+  <br/>close close 关闭；结束；终止；接近；倒闭；
+  <br/>careless careless 粗心的；
+  <br/>cross cross 穿过；交叉；十字形；
+  <br/>supermarket supermarket 超级市场；超市；
+  <br/>football football 足球；足球运动；
+  <br/>Australian Australian 澳大利亚的；澳大利亚人的；
+  <br/>bottle bottle 瓶子；一瓶的容量；
+  <br/>nurse nurse 护士；保姆；照料；护理；
+  <br/>April April 四月；
+  <br/>it it 它；
+  <br/>carry carry 搬；运；带；携带；
+  <br/>drink drink 喝；喝酒；饮料；饮；酒；
+  <br/>army army 军队；陆军；
+  <br/>corner corner 角落；拐角处；
+  <br/>and and and 和；
+  <br/>cheap cheap 便宜的；
+  <br/>snow snow 雪；下雪；
+  <br/>river river 河；江；
+  <br/>careless careless 粗心的；
+  <br/>carrot carrot 胡萝卜；红萝卜；
+  <br/>board board 黑板；甲板；木板；董事会；
+  <br/>aloud aloud 大声地；
+  <br/>corner corner 角落；拐角处；
+  <br/>subject subject 课程；科目；学科；主体；主语；
+  <br/>cheap cheap 便宜的；
+  <br/>bottle bottle 瓶子；一瓶的容量；
+  <br/>there there 在那里；那里；到那里；往那里；你瞧；好啦；
+  <br/>careful careful 小心的；仔细的；
+  <br/>carrot carrot 胡萝卜；红萝卜；
+  <br/>big big 大的；
+  <br/>milk milk 牛奶；挤奶；
+  <br/>kind kind 种类；性质；仁慈的；友善的；
+  <br/>fly fly 飞；放飞；飞逝；苍蝇；
+  <br/>avoid avoid 避免；避开；
+  <br/>them them 他们；它们；她们
+  <br/>bike bike 自行车；脚踏车；
+  <br/>afraid afraid 害怕；担心；恐怕；
+  <br/>calendar calendar 日历；历法；重大事件日程表；
+  <br/>by by 乘；通过；靠；用；
+  <br/>corner corner 拐角处；角落
+  <br/>coat coat 外套；涂层；表皮；皮毛；
+  <br/>cheap cheap 便宜的；
+  <br/>complete complete 完整的；完全的；全部的；完成；
+  <br/>body body 主体；尸体；身体；正文；
+  <br/>away away （离）开；向远处；
+  <br/>afraid afraid 害怕；恐怕；担心；
+  <br/>calendar calendar 日历；历程；重大事件日程表；
+  <br/>carrot carrot 胡萝卜；红萝卜；
+  <br/>coat coat 外套；涂层；表皮；
+  <br/>away away 离开；向远处；
+  <br/>afraid afraid 害怕；恐怕；担心；
+  <br/>calendar calendar 日历；历程；重大事件日程表；
+  <br/>coat coat 
+</details>

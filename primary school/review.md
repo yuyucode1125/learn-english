@@ -298,3 +298,80 @@
   <br/>calendar calendar 日历；历程；重大事件日程表；
   <br/>coat coat 
 </details>
+<details> 
+  <summary><mark><font color=darkred>2021-02-19</font></mark></summary>
+  cotton cotton 棉花；棉；棉布；
+  cinema cinema 电影院；电影院；
+  continue continue 持续；继续
+  ear ear 耳朵；
+  grass grass 早；草地；草坪；
+  cent cent 美分；
+  break break  间隙；休息；打破；损坏；撕开；
+  daughter daughter 女儿；
+  blood blood 血；血统；血液；抽血；
+  cotton cotton 棉；棉布；棉花；
+  taxi taxi 出租汽车；
+  continue continue 继续；持续；
+  Asian Asian 亚洲人；亚洲人的；亚洲的；
+  grass grass 草；草地；草坪；
+  cent cent 美分；
+  coolect collect  收集；募捐；
+  daughter daughter 女儿；
+  blood blood 血；血液；血统；
+  cotton cotton 棉；棉花；棉布；
+  cousin cousin 堂表 兄弟姐妹；
+  art art 艺术；美术；
+  talk talk 谈论；谈话；讲话；演讲；讲座；
+  film film 电影；胶卷；拍摄；
+  deaf deaf 聋的；
+  collect collect 收集；募捐；
+  walk walk 散步；行走；不行；
+  summer summer 夏天；夏季；
+  nose nose 鼻子；
+  cousin cousin 堂表兄弟姐妹；
+  breath breath 呼吸；
+  continue continue 继续；持续；
+  butter butter 黄油；奶油；
+  deaf deaf 聋的；
+  grass grass 草；草地；草坪；
+  cent cent 美分；
+  daughter daughter 女儿；
+  blood blood 血；血液；血统；
+  cotton cotton 棉布；棉花；棉；
+  skirt skirt 裙子；衬裙；
+  easy easy 容易的；简单的；
+  butter butter 黄油；奶油；
+  have have 拥有；得到；有；吃；喝；进行；从事；
+  collect collect 收集；；募捐；
+  travel travel 旅行；出行；长途行走；游历；旅游；
+  stand stand 战力；位于；容忍；忍让；
+  brown brown 褐色的；棕色的；褐色；棕色；
+  cousin cousin 堂表兄弟姐妹；
+  competitoin competition 竞争；竞赛；
+  food food 食物；食品；
+  deaf deaf 聋的；
+  danger danger 危险；
+  sister sister 姐、妹
+  Canadian Canadian 加拿大的；加拿大人的；加拿大人；
+  burn burn 烧伤；燃烧；淡然；烧毁；烧；
+  brown brown 褐色的；棕色的；褐色；棕色；
+  are are 是；
+  competition competition 竞争；竞赛；
+  wrong wrong 错误的；有毛病的；不正常的；
+  baseball baseball 棒球；棒球运动；
+  butter butter 黄油；奶油；
+  brush brush 刷子；轻拂；刷；擦；
+  become become 变得；成为；
+  burn burn 燃烧；烧毁；点燃；烧伤；
+  address address 地址；所在地；
+  face face 脸；面临；面对；
+  to to 到；往；朝；位于...方向；对；对于；
+  America America 美国；
+  coal coal 煤；
+  bear bear 熊；承受；忍受；
+  brush brush 刷；擦；刷子；轻拂；
+  brown brown 
+  competition competition 
+  burn burn
+  brush brush 
+</details>

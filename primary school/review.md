@@ -526,3 +526,83 @@
   <br/>culture culture 文化；文明；培养；
   <br/>at at 在；
 </details>
+<details> 
+  <summary><mark><font color=darkred>2021-02-22</font></mark></summary>
+  <br/>help help 帮助；帮忙；
+  <br/>worry worry 担心；发愁；烦恼；忧虑；
+  <br/>customer customer 顾客；消费者；
+  <br/>bowl bowl 碗；
+  <br/>children children 孩子们；
+  <br/>between between between 在...之间；
+  <br/>business business 工厂；企业；商行；商务；事务；
+  <br/>begin begin 开始；着手；
+  <br/>favourite favourite 特别喜爱的；特别喜爱的人或物；
+  <br/>beside beside 在...旁边；靠近
+  <br/>worry worry 担心；烦恼；忧虑；发愁；
+  <br/>light light 灯光；光线；光；轻的；点燃；照亮；
+  <br/>bowl bowl 碗；
+  <br/>college college 学院；专科学校；
+  <br/>juice juice 果汁；菜汁；果汁饮料；肉汁；
+  <br/>an an 一个；一；
+  <br/>begin begin 开始；着手；
+  <br/>plane plane 飞机；平面；水平
+  <br/>December December 十二月；
+  <br/>answer answer 回答；答复；答案；
+  <br/>borrow borrow 借用；借；
+  <br/>airport airport 机场；
+  <br/>ruler ruler 统治者；管理者；尺子；
+  <br/>street street 街道；街道的；
+  <br/>Australia Australia 澳大利亚；
+  <br/>cook cook 做饭；炊事员；厨师；烹调；
+  <br/>ship ship 船；轮船；用船装运；
+  <br/>worry worry 担心；忧虑；发愁；烦恼；
+  <br/>answer answer 答复；回答；答案；
+  <br/>warm warm 暖和的；温暖的；
+  <br/>bowl bowl 碗；
+  <br/>ruler ruler 统治者；管理者；尺子；
+  <br/>communicate communicate 交流；沟通；传达；
+  <br/>company company 公司；陪伴；同伴；
+  <br/>capital capital 首都；大写字母；省会；资本家；
+  <br/>begin begin 开始；着手；
+  <br/>sad sad 令人伤心的；可惜；
+  <br/>candle candle 蜡烛；
+  <br/>warm warm 暖和的；温暖的；
+  <br/>good good 好；
+  <br/>bread bread 面包；生计；
+  <br/>not not 不
+  <br/>company company 同伴；公司；陪伴；
+  <br/>area area 地区；区域；
+  <br/>Ms Ms 女士；
+  <br/>sock sock 短袜；
+  <br/>candle candle 蜡烛；
+  <br/>compare compare 比较；对照；比得上；
+  <br/>anwser anwser 回答；答复；答案；
+  <br/>bread bread 面包；生计；
+  <br/>pupil pupil 小学生；弟子；瞳孔；未成年人；
+  <br/>ruler ruler 统治者；管理者；尺子；
+  <br/>dirty dirty 脏的；
+  <br/>article article 文章；
+  <br/>sock sock 短袜；
+  <br/>biscuit biscuit 饼干；松饼；淡黄褐色；
+  <br/>compare compare 比较；对照；比得上；
+  <br/>below below 在...的下面；低于；
+  <br/>warm warm 暖和的；温暖的；
+  <br/>tomorrow tomorrow 明天；在明天；
+  <br/>century century century 百年；世纪；
+  <br/>dirty dirty 脏的；
+  <br/>company company 公司；陪伴；同伴；
+  <br/>anywhere anywhere 任何地方；
+  <br/>biscuit biscuit 松饼；饼干；淡黄褐色；
+  <br/>compare compare 比较；对照；比得上；
+  <br/>below below 低于；在...的下面；
+  <br/>candle candle 蜡烛；
+  <br/>bread bread 面包；生计；
+  <br/>century century 百年；世纪；
+  <br/>sock sock 短袜；
+  <br/>dirty dirty 脏的；
+  <br/>biscuit biscuit 
+  <br/>compare compare 
+  <br/>below below 
+  <br/>century century 
+
+</details>

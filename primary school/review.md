@@ -604,5 +604,75 @@
   <br/>compare compare 
   <br/>below below 
   <br/>century century 
-
+</details>
+<details> 
+  <summary><mark><font color=darkred>2021-02-23</font></mark></summary>
+  <br/>hospital hospital 医院；
+  <br/>allow allow 允许；准许；
+  <br/>bridge bridge 桥；桥牌；
+  <br/>open open 打开；开着的；敞开的；开阔的；
+  <br/>PE PE 体育;体育课； physical education
+  <br/>door door 门；门户；
+  <br/>classmate classmate 同班同学；
+  <br/>toilet toilet 厕所；盥洗室；
+  <br/>uncle uncle 叔叔；舅；伯；姑父；姨夫；
+  <br/>couple couple 夫妇；一对；结合；连合；
+  <br/>miss miss 错过；女士；小姐；想念；未击中；打偏；
+  <br/>bridge bridge 桥；桥牌；
+  <br/>against against 反对；对着；
+  <br/>kid kid 孩子；小山羊；欺骗；取笑；
+  <br/>church church 教堂；礼拜；教派；
+  <br/>air air 空气；大气；
+  <br/>advantage advantage 优势；优点；有利条件；
+  <br/>panda panda 熊猫；
+  <br/>color color 颜色；
+  <br/>certainly certainly 当然；无疑；确定；
+  <br/>coffee coffee 咖啡；
+  <br/>coast coast 海岸；海滨；
+  <br/>park park 公园；停放；
+  <br/>church church 教堂；教派；礼拜；
+  <br/>care care 小心；照料；保护；介意；在乎；关心；
+  <br/>advantage advantage 优势；优点；有利条件；
+  <br/>buy buy 购买；买东西；
+  <br/>exercise exercise 锻炼；运动；
+  <br/>certainly certainly 当然；无疑；确定；
+  <br/>car car 汽车；小汽车；
+  <br/>coast coast 海岸；海滨；
+  <br/>his his 他的；
+  <br/>bridge bridge 桥；桥牌；
+  <br/>way way 方式；方法；路；路线；
+  <br/>advantage advantage 优势；有利条件；优点；
+  <br/>consider consider 考虑；认为；细想；
+  <br/>sunny sunny 阳光充足的；晴朗的；
+  <br/>black black 黑色；黑色的；
+  <br/>arrive arrive 到达；
+  <br/>advise advise 建议；劝告；
+  <br/>bicycle bicycle bicycle 自行车；脚踏车；
+  <br/>bridge bridge 桥；桥牌；
+  <br/>way way 路线；路；方式；方法；
+  <br/>church church 教堂；教派；礼拜；
+  <br/>consider consider 考虑；认为；细想；
+  <br/>the the 那个；这个；那些；这些；
+  <br/>behind behind 在...后面
+  <br/>always always 通常；总是；
+  <br/>certainly certainly 当然；无疑；确定；
+  <br/>music music 音乐；乐曲；
+  <br/>coast coast 海岸；海滨；
+  <br/>arm arm 手臂；上肢；武装；装备；
+  <br/>advantage advantage 优势；有利条件；优点；
+  <br/>dear dear 亲爱的；昂贵的；
+  <br/>thin thin 变薄的；变瘦的；变稀的；薄的；瘦的；
+  <br/>behind behind 在...后面；
+  <br/>busy busy 繁忙；忙的；忙碌的；
+  <br/>balloon balloon 气球；膨胀；激增；热气球；
+  <br/>birthday birthday 生日；诞辰；
+  <br/>bridge bridge 桥；桥牌；
+  <br/>way way 路；路线；方式；方法；
+  <br/>near near 靠近的；附近；邻近；
+  <br/>consider consider 考虑；认为；细想；
+  <br/>behind behind 在...后面；
+  <br/>balloon balloon 气球；热气球；膨胀；激增；
+  <br/>near near near 靠近；邻近；附近的；
+  <br/>balloon balloon 
+  <br/>near near near 
 </details>

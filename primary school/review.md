@@ -676,3 +676,57 @@
   <br/>balloon balloon 
   <br/>near near near 
 </details>
+<details> 
+  <summary><mark><font color=darkred>2021-02-24</font></mark></summary>
+  <br/>much much 非常；十分；大量；许多；多少；
+  <br/>condition condition 条件；状况；
+  <br/>change change 改变；变化；零钱；
+  <br/>doctor doctor 医生；博士
+  <br/>parent parent 父母；
+  <br/>well well 好；健康的；良好的；井；水井；气井；油井；
+  <br/>work work 工作；劳动；起作用；有效果；奏效；
+  <br/>we we 我们；
+  <br/>down down 下；向下；沿...而下；
+  <br/>ice ice 冰；冰淇淋；
+  <br/>bag bag 书包；提包；袋子；
+  <br/>live live 生活；居住；实践；身体力行；
+  <br/>me me 我；
+  <br/>fruit fruit 水果；产物；
+  <br/>our our 我们的；
+  <br/>dress dress 连衣裙；服装；
+  <br/>elephant elephant 大象；大号图画纸；
+  <br/>new new 新的；
+  <br/>dance dance 舞蹈；跳舞；
+  <br/>attend attend 参加；出席；
+  <br/>dead dead 死的；死者；
+  <br/>correct correct 正确的；纠正；改正；
+  <br/>chemistry chemistry 化学；化学过程；
+  <br/>story story 故事；小说；
+  <br/>dress dress 连衣裙；服装；
+  <br/>cut cut 切；割；
+  <br/>Christmas Christmas 圣诞节；
+  <br/>Asia Asia 亚洲；
+  <br/>swim swim 游；游泳；
+  <br/>countryside countryside 乡村；农村地区；
+  <br/>fan fan 狂热爱好者；扇子；风扇；迷；
+  <br/>beautiful beautiful 漂亮的；美丽的；
+  <br/>water water 水；浇水；
+  <br/>is is 是；
+  <br/>sport sport 体育；体育运动；
+  <br/>connect connect 连接；联系；
+  <br/>ancient ancient 古代的；远古的；
+  <br/>very very 非常；很；
+  <br/>meet meet 遇到；满足；达到；遇见；相遇；见到；
+  <br/>monkey monkey 猴子；
+  <br/>cannot cannot 不能；无法
+  <br/>dress dress 连衣裙；服装；
+  <br/>country country 国家；乡村；
+  <br/>of of （表示所属其中）...的
+  <br/>all all 所有的；全部的；全部；
+  <br/>ancient ancient 远古的；古代的；
+  <br/>clock clock 钟；计时器；
+  <br/>windy windy 有风的；多风的；
+  <br/>of of 
+  <br/>ancient ancient 远古的；古代的；
+  <br/>windy windy 有风的；多风的；
+  </details>

@@ -730,3 +730,59 @@
   <br/>ancient ancient 远古的；古代的；
   <br/>windy windy 有风的；多风的；
   </details>
+<details> 
+  <summary><mark><font color=darkred>2021-02-25</font></mark></summary>
+  TV TV 电视机；电视；
+  people people 人；人类；公民；
+  Chinese Chinese 汉语；中国的；中国人的；中国人；中文；中餐；
+  get get 变得；得到；购买；到达；
+  see see 看见；领会；理解；
+  high high 高的；奢侈的；
+  young young 年轻的；
+  my my 我的；
+  red red 红色；红色的；
+  age age 年龄；时代；
+  egg egg 蛋；
+  this this 这；这个；
+  get get 取得；得到；到达；购买；
+  hair hair 头发；
+  sleep sleep 睡觉；
+  tea tea 茶叶；茶；
+  wear wear 穿着；戴；面露；面带；
+  background background 背景；
+  sheep sheep 绵羊；
+  fish fish 鱼；鱼肉；
+  school school 学校；培养；教育；
+  get get 取得；得到；到达；购买；
+  cover cover 翻唱；覆盖；盖子；封面；
+  in in 在里面；在内；
+  why why 为什么；
+  listen listen 听；倾听；列举；列于表上；
+  welcome welcome 欢迎；迎接；
+  man man 男人；
+  every every 每一；
+  tiger tiger 老虎；
+  winter winter 冬天；冬季；
+  chance chance 机率；机会；可能性；
+  in in 在..里面；在里内；
+  find find 寻找；找到；发现；
+  her her 她的；她
+  ask ask 询问；问；请求；邀请；
+  want want 想要；要；
+  cat cat 猫；猫科动物；
+  interesting interesting 有趣的；
+  get get 
+  basic basic 基本的；
+  bird bird 鸟；鸟类；
+  early early 早地；早的；
+  time time 时间；时候；时期；次；回；
+  aunt aunt 婶婶；姑；伯母；舅母；阿姨；
+  yellow yellow 黄色；黄色的；
+  alive alive 活着的；存在的；
+  box box 盒子；箱子；
+  driver driver 司机；驾驶员；
+  in in 
+  early early 早的；早地；
+  driver driver 司机；驾驶员；
+  early early 早的；早地；
+</details>

@@ -862,3 +862,63 @@
   <br/>bored bored 
   <br/>cpmmunity community 
 </details>
+<details> 
+  <summary><mark><font color=darkred>2021-02-27</font></mark></summary>
+  <br/>coin coin 硬币；
+  <br/>afford afford 负担得起；提供；给予；
+  <br/>like like 喜欢；喜爱；像；
+  <br/>competition competition 竞争；竞赛；
+  <br/>beat beat 击；打；敲；赢；
+  <br/>afternoon afternoon 下午；午后；
+  <br/>some some 一些；若干；有些；某一；
+  <br/>how how 怎么；
+  <br/>copy copy 复制；拷贝；一本；一册；抄写；复印件
+  <br/>coin coin coin 硬币；
+  <br/>afford afford 提供；给予；负担得起；
+  <br/>go go 去；
+  <br/>competition competition 竞赛；竞争；
+  <br/>chocolate chocolate 巧克力；
+  <br/>eat eat 吃；
+  <br/>season season 季节；季；赛季；
+  <br/>room room 房间；室；
+  <br/>floor floor 地板；地面；
+  <br/>turn turn 转；轮次；旋转；轮流；
+  <br/>boss boss 老板；上司；
+  <br/>here here 这里；这儿；
+  <br/>window window 窗口；窗；
+  <br/>wait wait 等待；等；等候；
+  <br/>library library 图书馆；
+  <br/>him him 他；
+  <br/>better better 更好的；更好地；更加；
+  <br/>coin coin 硬币；
+  <br/>afford afford 提供；给予；负担得起；
+  <br/>chicken chicken 鸡肉；小鸡；鸡；
+  <br/>competition competition 竞争；竞赛；
+  <br/>make make 制作；做；制造；使得；
+  <br/>name name 姓名；昵称；名字；
+  <br/>burn burn 烧伤；烧毁；燃烧；点燃；
+  <br/>game game 游戏；比赛
+  <br/>noodle noodle 面条；笨蛋；
+  <br/>mum mum 妈妈；沉默的；
+  <br/>sometimes sometimes 有时候；有时；
+  <br/>anything anything 任何事（物）/ 什么事|物
+  <br/>say say 说；讲；
+  <br/>baby baby 婴儿；幼崽；
+  <br/>both both 两者；双方；两者的；双方的；
+  <br/>burn burn 烧毁；烧伤；燃烧；点燃；烧；
+  <br/>cartoon cartoon 卡通；动画片；
+  <br/>map map 地图；分布图；示意图；
+  <br/>bean bean 豆荚；豆；豆科植物；豆形种子；菜豆；
+  <br/>center center 中心；中央；
+  <br/>agree agree 同意；赞同；约定；商定；
+  <br/>tired tired 疲劳的；累的；
+  <br/>day day 天；日；白天；
+  <br/>cotton cotton 棉；棉花；棉布；
+  <br/>date date 日期；约会；注明日期；
+  <br/>block block 块状；块；街区；障碍；阻塞；阻挡；妨碍；
+  <br/>burn burn 烧伤；点燃；烧毁；燃烧；烧；
+  <br/>bean bean 豆；菜豆；豆科植物；豆荚；豆形种子；
+  <br/>tired tired 疲劳的；累的；
+  <br/>cotton cotton 棉；棉布；棉花；
+  <br/>bean bean  豆；豆科植物；菜豆；豆荚；
+</details>

@@ -922,3 +922,62 @@
   <br/>cotton cotton 棉；棉布；棉花；
   <br/>bean bean  豆；豆科植物；菜豆；豆荚；
 </details>
+<details> 
+  <summary><mark><font color=darkred>2021-02-28</font></mark></summary>
+  <br/>hot hot 热的；辣的；热情的；
+  <br/>their their 他们的；她们的；它们的；
+  <br/>green green 绿色；绿色的；青春的；
+  <br/>bit bit 一些；一点；少量的；
+  <br/>anyway anyway 总之；不管怎样；无论如何；
+  <br/>difficult difficult 困难的；难的；
+  <br/>hungry hungry 饥饿的；
+  <br/>anybody anybody 任何人；
+  <br/>blind blind 瞎的；失明的；
+  <br/>you you 你；你们；
+  <br/>rice rice 米饭；米；大米；稻；
+  <br/>camp camp 夏令营；宿营；野营；
+  <br/>study study 学习；研究；书房；
+  <br/>anyway anyway 总之；无论如何；不管怎样；
+  <br/>any any 任何；一些；
+  <br/>hungry hungry 饥饿的；渴望的
+  <br/>what what 什么；
+  <br/>blind blind 瞎的；失明的；
+  <br/>love love 爱好；喜爱；热爱；
+  <br/>again again 再；又；
+  <br/>centre centre 中央；中心；
+  <br/>potato potato 土豆；马铃薯；
+  <br/>friend friend 朋友；
+  <br/>police police 警察；警方；
+  <br/>bedroom bedroom 卧室；寝室；
+  <br/>anyone anyone 任何人；
+  <br/>your your 你的；你们的；
+  <br/>orange orange 橘色；橘色的；橙色；橙色的；橙子；橘子；
+  <br/>lunch lunch 午餐；午饭；
+  <br/>woman woman 女人；妇女；
+  <br/>potato potato 土豆；马铃薯；
+  <br/>anyway anyway 总之；不管怎样；无论如何；
+  <br/>avoid avoid 避免；避开；
+  <br/>hungry hungry 饥饿的；渴望的；
+  <br/>anyone anyone 任何人；
+  <br/>sun sun 阳光；太阳；
+  <br/>blind blind 瞎的；失明的；
+  <br/>old old 旧的；老的；
+  <br/>she she 她；
+  <br/>there there 那里；哪里的；在那里；往那里；
+  <br/>year year 年；岁；
+  <br/>about about 关于；大约；在各处；四处；大约；
+  <br/>star star 星星；明星；星形；
+  <br/>flower flower 花；
+  <br/>crazy crazy 着迷的；狂热的；发疯的；
+  <br/>bye bye 再见；
+  <br/>cross cross 穿过；十字形；交叉；
+  <br/>potato potato 土豆；马铃薯；
+  <br/>climb climb 攀登；攀爬；
+  <br/>brave brave 勇敢的；
+  <br/>lesson lesson 教训；课；功课；
+  <br/>anyone anyone 任何人；
+  <br/>banana banana 香蕉；
+  <br/>crazy crazy 发疯的；狂热的；着迷的；
+  <br/>zoo zoo 动物园；
+  <br/>many many 许多的；许多人或物；
+</details>

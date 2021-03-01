@@ -981,3 +981,70 @@
   <br/>zoo zoo 动物园；
   <br/>many many 许多的；许多人或物；
 </details>
+<details> 
+  <summary><mark><font color=darkred>2021-03-01</font></mark></summary>
+  <br/>dinner dinner 正餐；晚餐；宴会；
+  <br/>drink drink 喝；喝酒；喝饮料；饮料；酒；
+  <br/>common common 常见的；通常的；普遍的；共有的；寻常的；平凡的；
+  <br/>blood blood 血；血液；血统；抽血；
+  <br/>attention attention 注意；注意力；
+  <br/>classroom classroom 教室；
+  <br/>cold cold 冷的；伤风；感冒；
+  <br/>child child 孩子；儿童；
+  <br/>continue continue 继续；持续；
+  <br/>daughter daughter 女儿；
+  <br/>brain brain 大脑；头脑；
+  <br/>common common 普遍的；共有的；平凡的；常见的；
+  <br/>brown brown 褐色的；棕色的；褐色；棕色；
+  <br/>attention attention 注意；注意力；
+  <br/>card card 卡片；纸牌；贺卡；
+  <br/>half half 一半；半；
+  <br/>tomato tomato 番茄；西红柿；
+  <br/>continue continue 继续；持续；
+  <br/>among among 在中间；在...之间；
+  <br/>brain brain 大脑；头脑；
+  <br/>corn corn 玉米；谷物；
+  <br/>brown brown 褐色；棕色的；棕色；褐色的；
+  <br/>cake cake 蛋糕；糕；饼；
+  <br/>Mr Mr 先生；
+  <br/>them them 他们；她们；她们；
+  <br/>or or 或者；
+  <br/>body body 主体；尸体；正文；
+  <br/>careless careless 粗心的；
+  <br/>after after 在...之后；在...以后；在..后面；以后；过后；后来；
+  <br/>corn corn 玉米；谷物；
+  <br/>common common 
+  <br/>cake cake 蛋糕；糕；饼；
+  <br/>attention attention 
+  <br/>fine fine 极好的；健康的；细的；
+  <br/>they they 它们；他们；
+  <br/>birth birth 出生；诞生；
+  <br/>continue continue 
+  <br/>coach coach 教练；长途汽车；
+  <br/>brain brain 
+  <br/>brown brown 
+  <br/>sing sing 唱；
+  <br/>cloud cloud 云；
+  <br/>biscuit biscuit 饼干；松饼；
+  <br/>asleep asleep 睡着的；麻木的；长眠的；不专心的；
+  <br/>umbrella umbrella 伞；雨伞；太阳伞；保护伞；
+  <br/>cost cost 费用；成本；花费；代价；
+  <br/>corn corn 
+  <br/>hello hello 
+  <br/>cake cake 
+  <br/>blackboard blackboard 黑板；
+  <br/>blouse blouse 女衬衫；
+  <br/>long long  长的；
+  <br/>cent cent 美分；
+  <br/>umbrella
+  <br/>cost cost
+  <br/>photo photo 照片；
+  <br/>it it 它；
+  <br/>cream cream 奶油；乳脂；奶油色；淡黄色；米色；
+  <br/>big big 大的；
+  <br/>playground playground 操作；
+  <br/>chopsticks chopsticks 筷子；
+  <br/>umbrella umbrella 
+  <br/>cost cost 
+
+</details>

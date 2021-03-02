@@ -1046,5 +1046,57 @@
   <br/>chopsticks chopsticks 筷子；
   <br/>umbrella umbrella 
   <br/>cost cost 
-
+</details>
+<details> 
+  <summary><mark><font color=darkred>2021-03-02</font></mark></summary>
+  <br/>cup cup 杯子；
+  <br/>film film 电影；胶卷；拍摄；
+  <br/>on on 在...上；关于；开着的；正在进行的；正在播出的；
+  <br/>education education 教育；
+  <br/>easy easy 容易的；简单的；
+  <br/>crayon crayon 蜡笔；
+  <br/>toy toy 玩具；
+  <br/>mouth mouth 嘴；口；
+  <br/>candy candy 糖果；
+  <br/>take take 乘坐；拿；服用；电影镜头；电视镜头；
+  <br/>tall tall 高的；
+  <br/>sweater sweater 毛衣；厚运动衫；
+  <br/>speak speak 说；讲
+  <br/>cheer cheer 欢呼；喝彩；感到振奋；
+  <br/>brush brush 刷子；刷；擦；掠过；轻拂；
+  <br/>wash wash 洗；冲洗；
+  <br/>choice choice 选择；选择权；
+  <br/>central central 中央的；中心的；
+  <br/>Canadian Canadian 加拿大的；加拿大人；
+  <br/>circle circle 圆圈；圆；
+  <br/>August August 八月；
+  <br/>Mrs Mrs 夫人；太太；
+  <br/>cheer cheer 欢呼；喝彩；感到振奋；
+  <br/>watch watch 手表；监听；观看；留神观察；
+  <br/>travel travel 旅行；出行；游历；旅游；长途行走；
+  <br/>goodbye goodbye 再见；
+  <br/>central central 中央的；中心的；
+  <br/>art art 艺术；美术；
+  <br/>bamboo bamboo 竹子；
+  <br/>control control 管理；控制；抑制；
+  <br/>also also 也；还；
+  <br/>party party 聚会；宴会；
+  <br/>address address 地址；电子邮件；住址；
+  <br/>train train 火车；培养；训练；
+  <br/>its its 它的；
+  <br/>whose whose 谁的；
+  <br/>baseball baseball 棒球；
+  <br/>hear hear 听见；听到；听说；
+  <br/>clean clean 干净的；擦干净；打扫；
+  <br/>cheer cheer 
+  <br/>Asian Asian 亚洲的；亚洲人的；亚洲人；
+  <br/>cap cap 帽子；便帽；
+  <br/>cry cry 哭；喊叫；
+  <br/>central central 
+  <br/>ball ball 球；
+  <br/>cause cause 原因；起因；事业；引起；使发生；
+  <br/>be be 是；
+  <br/>danger danger 危险的；
+  <br/>bad bad 坏的；严重的；
+  <br/>cause cause 
 </details>

@@ -1100,3 +1100,65 @@
   <br/>bad bad 坏的；严重的；
   <br/>cause cause 
 </details>
+<details> 
+  <summary><mark><font color=darkred>2021-03-03</font></mark></summary>
+  <br/>plant plant 种植；工厂；植物；发电厂；
+  <br/>home home 家；在家；
+  <br/>communication communication 通信；交流；
+  <br/>build build 建造；建筑；开发；建构；体型；体格；身材；
+  <br/>worry worry 担心；发愁；烦恼；忧虑
+  <br/>clever clever 聪明的；伶俐的；
+  <br/>because because 因为；
+  <br/>angry angry 生气的；愤怒的；
+  <br/>idea idea 主意；想法；
+  <br/>plant plant 种植；植物；工厂；发电厂
+  <br/>little little 小的；少的；年幼的；
+  <br/>communication communication 通信；交流；
+  <br/>bottom bottom 底部；底；
+  <br/>African African 非洲的；非洲人；
+  <br/>schoolbag schoolbag 背包；
+  <br/>appear appear 似乎；显得；出现；看来；
+  <br/>cloudy cloudy 多云的；阴天的；
+  <br/>camera camera 摄像机；照相机；摄影机；
+  <br/>chair chari 椅子；
+  <br/>Africa Africa 非洲；
+  <br/>slow slow 慢的；
+  <br/>agreenment agreement 同意；一致；协议；协定；
+  <br/>African African 
+  <br/>concert concert 音乐会；和谐；一致；
+  <br/>Canada Canada 加拿大；
+  <br/>century century 百年；世纪；
+  <br/>kitchen kitchen 厨房；炊事员；炊具；
+  <br/>plant plant 
+  <br/>late late 迟的；晚地；迟地；晚的；
+  <br/>communication communication 通信；交流；
+  <br/>family family 家庭；家庭成员；
+  <br/>along along 一直；向前；一道；沿着；
+  <br/>colour colour 颜色；涂色；给...着色；
+  <br/>boring boring 令人厌倦的；乏味的；无聊的；
+  <br/>century century 百年；世纪；
+  <br/>cow cow 母牛；奶牛；
+  <br/>under under 在...下面；向...下面
+  <br/>boy boy 男孩；
+  <br/>small small 小的；
+  <br/>look look 看；望；瞧上去；瞧；
+  <br/>African African 
+  <br/>bread bread 面包；生计；
+  <br/>boring boring 令人厌倦的；乏味的；无聊的；
+  <br/>come come 来；
+  <br/>cow cow cow 母牛；奶牛；
+  <br/>under under 在...下面；向...下面；
+  <br/>moon moon 月亮；
+  <br/>can can 能够；可以；可能；罐头；罐子；
+  <br/>basket basket 篮子；筐；一篮；一筐；
+  <br/>when when 什么时候；何时；
+  <br/>blue blue 蓝色；蓝色的；
+  <br/>strong strong 强壮的；强大的；优秀的；
+  <br/>dog dog dog 狗；
+  <br/>century century 
+  <br/>lake lake 湖；江；
+  <br/>visit visit 参加；访问；拜访；
+  <br/>boring boring 
+  <br/>cow cow 
+  <br/>under under 
+</details>

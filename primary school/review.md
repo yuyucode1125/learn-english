@@ -1162,3 +1162,55 @@
   <br/>cow cow 
   <br/>under under 
 </details>
+<details> 
+  <summary><mark><font color=darkred>2021-03-04</font></mark></summary>
+  <br/>believe believe 相信；认为；
+  <br/>shop shop 商店；买东西；购物；
+  <br/>grandfather grandfather 祖父；外祖父；
+  <br/>up up 上；向上；在上方；起来；上升；上行；
+  <br/>count count 数数；算数；计算；算作；认为；
+  <br/>with with 和；以；有；具有...特征；随身；
+  <br/>city city 城市；
+  <br/>ago ago 以前；以前的；
+  <br/>cheap cheap 便宜的；
+  <br/>month month 月；
+  <br/>wonderful wonderful 极好的；出色的；精彩的；
+  <br/>building building 建筑物；楼房；
+  <br/>farmer farmer 农场主；农民；
+  <br/>dark dark 黑暗；深色的；
+  <br/>us us 我们；
+  <br/>desk desk 书桌；
+  <br/>add add 增加；添加；继续说；补充说；
+  <br/>those those 那些
+  <br/>mom mom 妈妈；
+  <br/>these these 这些；
+  <br/>pig pig 猪；
+  <br/>read read 阅读；读；朗读；
+  <br/>comfortable comfortable 盖被；舒服的；舒适的；
+  <br/>bridge bridge 桥；桥牌；
+  <br/>farm farm 农场；农庄；
+  <br/>cookie cookie 曲奇；小甜饼；
+  <br/>that that 那个；那；
+  <br/>mom mom 妈妈；
+  <br/>dangerous dangerous 危险的；
+  <br/>born born 出生；
+  <br/>worker worker 工人；
+  <br/>comfortable comfortable 盖被；舒适的；舒服的；
+  <br/>could could 能够；可以；
+  <br/>April April 四月；
+  <br/>American American 美国人的；美国人；
+  <br/>board board 木板；甲板；董事长；黑板；
+  <br/>maths maths 数学；
+  <br/>tree tree 树；
+  <br/>night night 晚上；夜间；
+  <br/>no no 不；不是；
+  <br/>am am 是；
+  <br/>cool cool 酷的；凉的；凉快的；
+  <br/>healthy healthy 健康的；有益健康的；
+  <br/>culture culture 文化；文明；
+  <br/>mom mom 妈妈；
+  <br/>bike bike 自行车；
+  <br/>snow snow 下雪；雪；
+  <br/>by by 乘坐；通过；靠；用；
+  <br/>comfortable comfortable 盖被；舒服的；舒适的；
+  </details>

@@ -19,7 +19,7 @@
   <br/>hobby
   </details> 
 
-  <details> 
+<details> 
   <summary><mark><font color=darkred>2021.03.05</font></mark></summary>
   <br/>glad
   <br/>everyone
@@ -31,4 +31,18 @@
   <br/>tennis
   <br/>volleyball
   <br/>enjoy
-  </details> 
+</details> 
+
+<details> 
+  <summary><mark><font color=darkred>2021.03.06</font></mark></summary>
+  <br/>go swimming
+  <br/>player
+  <br/>member
+  <br/>free
+  <br/>hope
+  <br/>dream
+  <br/>true
+  <br/>come true
+  <br/>drawing
+  <br/>weekend
+</details> 

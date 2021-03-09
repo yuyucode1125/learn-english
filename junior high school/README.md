@@ -71,4 +71,17 @@
   <br/>history
   <br/>meeting
   <br/>OK
+</details>
+<details> 
+  <summary><mark><font color=darkred>2021.03.09</font></mark></summary>
+  <br/>gate
+  <br/>show
+  <br/>front
+  <br/>in front of
+  <br/>ground
+  <br/>ground floor
+  <br/>modern
+  <br/>hall
+  <br/>diary 
+  <br/>look at
 </details

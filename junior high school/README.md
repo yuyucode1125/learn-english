@@ -84,4 +84,17 @@
   <br/>hall
   <br/>diary 
   <br/>look at
+</details>
+<details> 
+  <summary><mark><font color=darkred>2021.03.10</font></mark></summary>
+  <br/>wall
+  <br/>let me see
+  <br/>after class
+  <br/>pardon
+  <br/>phone
+  <br/>on the phone
+  <br/>get up
+  <br/>go to school
+  <br/>a.m.
+  <br/>p.m.
 </details

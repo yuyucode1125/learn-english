@@ -97,4 +97,17 @@
   <br/>go to school
   <br/>a.m.
   <br/>p.m.
-</details
+</details>
+<details> 
+  <summary><mark><font color=darkred>2021.03.11</font></mark></summary>
+  <br/>reading room
+  <br/>only
+  <br/>sure
+  <br/>kind
+  <br/>all kinds of
+  <br/>letter
+  <br/>few
+  <br/>a few
+  <br/>far away from
+  <br/>on foot
+</details>

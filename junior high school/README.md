@@ -111,3 +111,16 @@
   <br/>far away from
   <br/>on foot
 </details>
+<details> 
+  <summary><mark><font color=darkred>2021.03.13</font></mark></summary>
+  <br/>all the best
+  <br/>show someone around
+  <br/>borrow from
+  <br/>o'clock
+  <br/>wake
+  <br/>wake up
+  <br/>shall
+  <br/>hill
+  <br/>seldom
+  <br/>out
+</details>

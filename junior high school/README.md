@@ -124,3 +124,16 @@
   <br/>seldom
   <br/>out
 </details>
+<details> 
+  <summary><mark><font color=darkred>2021.03.15</font></mark></summary>
+  <br/>go out
+  <br/>need
+  <br/>rest
+  <br/>just
+  <br/>have lessons
+  <br/>after-school
+  <br/>activity
+  <br/>homework
+  <br/>go to bed
+  <br/>usually
+</details>

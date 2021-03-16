@@ -137,3 +137,16 @@
   <br/>go to bed
   <br/>usually
 </details>
+<details> 
+  <summary><mark><font color=darkred>2021.03.16</font></mark></summary>
+  <br/>never
+  <br/>be late for
+  <br/>start
+  <br/>quarter
+  <br/>past
+  <br/>first
+  <br/>chat 
+  <br/>each
+  <br/>other
+  <br/>each other
+</details>

@@ -150,3 +150,16 @@
   <br/>other
   <br/>each other
 </details>
+<details> 
+  <summary><mark><font color=darkred>2021.03.17</font></mark></summary>
+  <br/>practise
+  <br/>hava a good time
+  <br/>wish
+  <br/>would
+  <br/>would like
+  <br/>life life
+  <br/>roller skating 
+  <br/>luck
+  <br/>museum
+  <br/>twice
+</details>

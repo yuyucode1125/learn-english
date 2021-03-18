@@ -163,3 +163,16 @@
   <br/>museum
   <br/>twice
 </details>
+<details> 
+  <summary><mark><font color=darkred>2021.03.18</font></mark></summary>
+  <br/>picnic
+  <br/>once
+  <br/>dislike
+  <br/>reason
+  <br/>ready
+  <br/>learn
+  <br/>world
+  <br/>get ready for
+  <br/>have breakfast
+  <br/>hava lunch
+</details>

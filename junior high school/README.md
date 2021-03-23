@@ -215,3 +215,16 @@
   <br/>firework 
   <br/>find out
 </details>
+<details> 
+  <summary><mark><font color=darkred>2021.03.23</font></mark></summary>
+  <br/>more
+  <br/>radio
+  <br/>take photos
+  <br/>at night
+  <br/>seem
+  <br/>different
+  <br/>important
+  <br/>most
+  <br/>off
+  <br/>let off
+</details>

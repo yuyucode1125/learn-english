@@ -228,3 +228,16 @@
   <br/>off
   <br/>let off
 </details>
+<details> 
+  <summary><mark><font color=darkred>2021.03.24</font></mark></summary>
+  <br/>packet
+  <br/>red packet
+  <br/>lifestyle
+  <br/>noon
+  <br/>hamburger
+  <br/>keep
+  <br/>lemon
+  <br/>watermelon
+  <br/>carrot
+  <br/>pork
+</details>

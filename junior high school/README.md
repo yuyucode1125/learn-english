@@ -254,3 +254,16 @@
   <br/>sugar
   <br/>tooth
 </details>
+<details> 
+  <summary><mark><font color=darkred>2021.03.26</font></mark></summary>
+  <br/>computer game
+  <br/>cola
+  <br/>plan
+  <br/>pool
+  <br/>swimming pool
+  <br/>piece
+  <br/>a piece of
+  <br/>plate
+  <br/>salt
+  <br/>kilo
+</details>

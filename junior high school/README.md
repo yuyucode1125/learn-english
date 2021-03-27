@@ -267,3 +267,16 @@
   <br/>salt
   <br/>kilo
 </details>
+<details> 
+  <summary><mark><font color=darkred>2021.03.27</font></mark></summary>
+  <br/>carton
+  <br/>less
+  <br/>than
+  <br/>less than
+  <br/>more than
+  <br/>take a walk
+  <br/>total
+  <br/>number
+  <br/>score
+  <br/>order
+</details>

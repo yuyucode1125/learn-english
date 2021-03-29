@@ -293,3 +293,16 @@
   <br/>money
   <br/>wallet
 </details>
+<details> 
+  <summary><mark><font color=darkred>2021.03.29</font></mark></summary>
+  <br/>bookshop
+  <br/>gift
+  <br/>CD
+  <br/>maybe
+  <br/>be interested in
+  <br/>stamp
+  <br/>shopkeeper
+  <br/>take a look
+  <br/>last
+  <br/>hair clip
+</details>

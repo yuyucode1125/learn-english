@@ -306,3 +306,16 @@
   <br/>last
   <br/>hair clip
 </details>
+<details> 
+  <summary><mark><font color=darkred>2021.03.30</font></mark></summary>
+  <br/>pink
+  <br/>pretty
+  <br/>enough
+  <br/>different from
+  <br/>paper
+  <br/>item
+  <br/>T-shirt
+  <br/>poor
+  <br/>pocket 
+  <br/>pocket money
+</details>

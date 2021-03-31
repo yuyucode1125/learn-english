@@ -319,3 +319,16 @@
   <br/>pocket 
   <br/>pocket money
 </details>
+<details> 
+  <summary><mark><font color=darkred>2021.03.31</font></mark></summary>
+  <br/>pair
+  <br/>a pair of
+  <br/>size
+  <br/>try on
+  <br/>expensive
+  <br/>price
+  <br/>large
+  <br/>note
+  <br/>bus stop 
+  <br/>restaurant
+</details>

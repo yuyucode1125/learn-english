@@ -333,7 +333,7 @@
   <br/>restaurant
 </details>
 <details> 
-  <summary><mark><font color=darkred>2021.04.1</font></mark></summary>
+  <summary><mark><font color=darkred>2021.04.01</font></mark></summary>
   <br/>top
   <br/>you're welcome
   <br/>just a minute
@@ -344,4 +344,17 @@
   <br/>tie
   <br/>lend
   <br/>lady
+</details>
+<details> 
+  <summary><mark><font color=darkred>2021.04.02</font></mark></summary>
+  <br/>gentleman
+  <br/>style
+  <br/>trainer
+  <br/>popular
+  <br/>purple
+  <br/>grey
+  <br/>smart
+  <br/>cotton
+  <br/>scarf
+  <br/>botn
 </details>

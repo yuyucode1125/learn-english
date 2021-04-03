@@ -358,3 +358,16 @@
   <br/>scarf
   <br/>botn
 </details>
+<details> 
+  <summary><mark><font color=darkred>2021.04.03</font></mark></summary>
+  <br/>jeans
+  <br/>silk
+  <br/>wool
+  <br/>boot
+  <br/>be made of
+  <br/>write to
+  <br/>wait for
+  <br/>look for
+  <br/>lie
+  <br/>fit for
+</details>

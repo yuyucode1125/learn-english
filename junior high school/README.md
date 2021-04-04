@@ -371,3 +371,16 @@
   <br/>lie
   <br/>fit for
 </details>
+<details> 
+  <summary><mark><font color=darkred>2021.04.04</font></mark></summary>
+  <br/>think of
+  <br/>glove
+  <br/>leather
+  <br/>soft
+  <br/>smooth
+  <br/>lovely
+  <br/>hat
+  <br/>jacket
+  <br/>feature
+  <br/>material
+</details>

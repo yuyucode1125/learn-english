@@ -384,3 +384,16 @@
   <br/>feature
   <br/>material
 </details>
+<details> 
+  <summary><mark><font color=darkred>2021.04.05</font></mark></summary>
+  <br/>design
+  <br/>model
+  <br/>include
+  <br/>both and
+  <br/>go for
+  <br/>palace
+  <br/>next to
+  <br/>town
+  <br/>Canada
+  <br/>France
+</details>

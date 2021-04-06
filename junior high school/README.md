@@ -397,3 +397,16 @@
   <br/>Canada
   <br/>France
 </details>
+<details> 
+  <summary><mark><font color=darkred>2021.04.06</font></mark></summary>
+  <br/>Japan
+  <br/>Russia
+  <br/>UK
+  <br/>London
+  <br/>capital
+  <br/>mile
+  <br/>garden
+  <br/>flat
+  <br/>centre
+  <br/>living room
+</details>

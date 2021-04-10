@@ -449,3 +449,16 @@
   <br/>field
   <br/>invite
 </details>
+<details> 
+  <summary><mark><font color=darkred>2021.04.10</font></mark></summary>
+  <br/>stay
+  <br/>of someone's own
+  <br/>may
+  <br/>call someone back
+  <br/>football field
+  <br/>share with
+  <br/>neighbour
+  <br/>wow
+  <br/>will
+  <br/>visitor
+</details>

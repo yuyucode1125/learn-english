@@ -475,3 +475,16 @@
   <br/>enginner
   <br/>broken
 </details>
+<details> 
+  <summary><mark><font color=darkred>2021.04.12</font></mark></summary>
+  <br/>fix
+  <br/>anyone
+  <br/>do some shopping
+  <br/>lucky
+  <br/>the day after tomorrow
+  <br/>fire
+  <br/>make a fire
+  <br/>manager
+  <br/>office
+  <br/>someone
+</details>

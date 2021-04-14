@@ -501,3 +501,16 @@
   <br/>job
   <br/>elder
 </details>
+<details> 
+  <summary><mark><font color=darkred>2021.04.13</font></mark></summary>
+  <br/>future
+  <br/>sound
+  <br/>sick
+  <br/>notice
+  <br/>information
+  <br/>worry about
+  <br/>group
+  <br/>help someone with something
+  <br/>by trani
+  <br/>by bus
+</details>

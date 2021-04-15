@@ -502,7 +502,7 @@
   <br/>elder
 </details>
 <details> 
-  <summary><mark><font color=darkred>2021.04.13</font></mark></summary>
+  <summary><mark><font color=darkred>2021.04.14</font></mark></summary>
   <br/>future
   <br/>sound
   <br/>sick
@@ -513,4 +513,17 @@
   <br/>help someone with something
   <br/>by trani
   <br/>by bus
+</details>
+<details> 
+  <summary><mark><font color=darkred>2021.04.15</font></mark></summary>
+  <br/>by ship
+  <br/>by bike
+  <br/>mine
+  <br/>nothing
+  <br/>wait a minute
+  <br/>yuan
+  <br/>tin
+  <br/>pizza
+  <br/>exchange student
+  <br/>quiet
 </details>

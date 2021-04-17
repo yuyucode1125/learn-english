@@ -528,7 +528,7 @@
   <br/>quiet
 </details>
 <details> 
-  <summary><mark><font color=darkred>2021.04.15</font></mark></summary>
+  <summary><mark><font color=darkred>2021.04.16</font></mark></summary>
   <br/>air
   <br/>fresh
   <br/>local
@@ -539,4 +539,17 @@
   <br/>opera
   <br/>theatre
   <br/>forward
+</details>
+<details> 
+  <summary><mark><font color=darkred>2021.04.17</font></mark></summary>
+  <br/>look forward to
+  <br/>soon
+  <br/>postcard
+  <br/>key
+  <br/>ring 
+  <br/>key ring
+  <br/>yours
+  <br/>ours
+  <br/>theirs
+  <br/>hers
 </details>

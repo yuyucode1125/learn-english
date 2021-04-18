@@ -553,3 +553,16 @@
   <br/>theirs
   <br/>hers
 </details>
+<details> 
+  <summary><mark><font color=darkred>2021.04.18</font></mark></summary>
+  <br/>all over
+  <br/>pencil case
+  <br/>work of art
+  <br/>hometown
+  <br/>painting 
+  <br/>row
+  <br/>hotel
+  <br/>raise
+  <br/>grow
+  <br/>wheat
+</details>

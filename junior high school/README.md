@@ -566,3 +566,16 @@
   <br/>grow
   <br/>wheat
 </details>
+<details> 
+  <summary><mark><font color=darkred>2021.04.19</font></mark></summary>
+  <br/>friendly
+  <br/>smell
+  <br/>drive
+  <br/>follow
+  <br/>path 
+  <br/>have to
+  <br/>north
+  <br/>west
+  <br/>south
+  <br/>east
+</details>

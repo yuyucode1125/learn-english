@@ -592,3 +592,16 @@
   <br/>forest
   <br/>funny
 </details>
+<details> 
+  <summary><mark><font color=darkred>2021.04.21</font></mark></summary>
+  <br/>laugh
+  <br/>giraffe
+  <br/>quite
+  <br/>neck
+  <br/>leaf
+  <br/>north-east
+  <br/>bridge
+  <br/>cross
+  <br/>cage
+  <br/>across
+</details>

@@ -605,3 +605,16 @@
   <br/>cage
   <br/>across
 </details>
+<details> 
+  <summary><mark><font color=darkred>2021.04.22</font></mark></summary>
+  <br/>outside
+  <br/>above
+  <br/>sign
+  <br/>bench
+  <br/>treasure
+  <br/>turning
+  <br/>traffic
+  <br/>traffic lights
+  <br/>should
+  <br/>crossing
+</details>

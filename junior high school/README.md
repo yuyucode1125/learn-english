@@ -618,3 +618,16 @@
   <br/>should
   <br/>crossing
 </details>
+<details> 
+  <summary><mark><font color=darkred>2021.04.23</font></mark></summary>
+  <br/>prepare
+  <br/>prepare for
+  <br/>plenty
+  <br/>plenty of
+  <br/>exit
+  <br/>amazing
+  <br/>same
+  <br/>times
+  <br/>earth
+  <br/>bone
+</details>

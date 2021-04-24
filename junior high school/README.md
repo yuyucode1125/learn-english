@@ -631,3 +631,16 @@
   <br/>earth
   <br/>bone
 </details>
+<details> 
+  <summary><mark><font color=darkred>2021.04.24</font></mark></summary>
+  <br/>fat
+  <br/>fact
+  <br/>usual
+  <br/>as usual
+  <br/>sit down
+  <br/>suddenly
+  <br/>whisper
+  <br/>bush
+  <br/>turn around
+  <br/>nobody
+</details>

@@ -657,3 +657,16 @@
   <br/>search
   <br/>himself
 </details>
+<details> 
+  <summary><mark><font color=darkred>2021.04.26</font></mark></summary>
+  <br/>say to oneself
+  <br/>weak
+  <br/>miaow
+  <br/>pick
+  <br/>pick up
+  <br/>surprised
+  <br/>later
+  <br/>run away
+  <br/>somebody
+  <br/>the day before yesterday
+</details>

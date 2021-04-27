@@ -670,3 +670,16 @@
   <br/>somebody
   <br/>the day before yesterday
 </details>
+<details> 
+  <summary><mark><font color=darkred>2021.04.27</font></mark></summary>
+  <br/>centimeter
+  <br/>dodo
+  <br/>snake
+  <br/>camel
+  <br/>little
+  <br/>dry
+  <br/>without
+  <br/>be afraid of
+  <br/>not any more
+  <br/>hear of
+</details>

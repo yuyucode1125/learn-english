@@ -683,3 +683,16 @@
   <br/>not any more
   <br/>hear of
 </details>
+<details> 
+  <summary><mark><font color=darkred>2021.04.28</font></mark></summary>
+  <br/>the other day
+  <br/>at the same time
+  <br/>sandwich
+  <br/>all over the world
+  <br/>per
+  <br/>at least
+  <br/>inch
+  <br/>ask for
+  <br/>on one's way
+  <br/>stop doing something
+</details>

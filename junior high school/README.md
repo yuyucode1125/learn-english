@@ -696,3 +696,16 @@
   <br/>on one's way
   <br/>stop doing something
 </details>
+<details> 
+  <summary><mark><font color=darkred>2021.04.29</font></mark></summary>
+  <br/>on the way
+  <br/>outdoor
+  <br/>hurry
+  <br/>hurry up
+  <br/>complain
+  <br/>camping
+  <br/>cycling
+  <br/>riding
+  <br/>skating
+  <br/>ride
+</details>

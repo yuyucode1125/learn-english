@@ -748,3 +748,16 @@
   <br/>decide
   <br/>enter
 </details>
+<details> 
+  <summary><mark><font color=darkred>2021.05.03</font></mark></summary>
+  <br/>towards
+  <br/>forget
+  <br/>reach
+  <br/>climb
+  <br/>fail
+  <br/>ability
+  <br/>believe it or not
+  <br/>look out
+  <br/>seat
+  <br/>send
+</details>

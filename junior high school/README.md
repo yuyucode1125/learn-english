@@ -761,3 +761,16 @@
   <br/>seat
   <br/>send
 </details>
+<details> 
+  <summary><mark><font color=darkred>2021.05.04</font></mark></summary>
+  <br/>even
+  <br/>able
+  <br/>pay
+  <br/>pay for
+  <br/>notebook
+  <br/>save
+  <br/>save from
+  <br/>smoke
+  <br/>next door
+  <br/>badly
+</details>

@@ -774,3 +774,16 @@
   <br/>next door
   <br/>badly
 </details>
+<details> 
+  <summary><mark><font color=darkred>2021.05.05</font></mark></summary>
+  <br/>hurt
+  <br/>pour
+  <br/>protect
+  <br/>rush
+  <br/>wet
+  <br/>blanket
+  <br/>fireman
+  <br/>put out
+  <br/>burn
+  <br/>moment
+</details>

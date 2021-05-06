@@ -787,3 +787,16 @@
   <br/>burn
   <br/>moment
 </details>
+<details> 
+  <summary><mark><font color=darkred>2021.05.06</font></mark></summary>
+  <br/>nod
+  <br/>reporter
+  <br/>news
+  <br/>newspaper
+  <br/>rubbish
+  <br/>bin
+  <br/>by the way
+  <br/>no problem
+  <br/>X-ray
+  <br/>term
+</details>

@@ -813,4 +813,17 @@
   <br/>award
   <br/>part
 </details>
+<details> 
+  <summary><mark><font color=darkred>2021.05.08</font></mark></summary>
+  <br/>take part in
+  <br/>lose
+  <br/>hear from
+  <br/>do someone's best
+  <br/>try someone's best
+  <br/>lose someone's best
+  <br/>Yours <faithfully></faithfully>
+  <br/>pet
+  <br/>rude
+  <br/>goldfish
+</details>
 

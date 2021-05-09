@@ -821,9 +821,23 @@
   <br/>do someone's best
   <br/>try someone's best
   <br/>lose someone's best
-  <br/>Yours <faithfully></faithfully>
+  <br/>Yours faithfully
   <br/>pet
   <br/>rude
   <br/>goldfish
 </details>
+<details> 
+  <summary><mark><font color=darkred>2021.05.09</font></mark></summary>
+  <br/>mouse
+  <br/>parrot
+  <br/>knee
+  <br/>hold
+  <br/>feed
+  <br/>teach
+  <br/>poem
+  <br/>wide
+  <br/>hunt
+  <br/>hide
+</details>
+
 

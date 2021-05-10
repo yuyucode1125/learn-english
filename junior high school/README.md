@@ -839,5 +839,17 @@
   <br/>hunt
   <br/>hide
 </details>
-
+<details> 
+  <summary><mark><font color=darkred>2021.05.10</font></mark></summary>
+  <br/>build
+  <br/>camp
+  <br/>stick
+  <br/>bark
+  <br/>bite
+  <br/>fight
+  <br/>look after
+  <br/>till
+  <br/>end
+  <br/>trouble
+</details>
 

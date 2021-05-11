@@ -852,4 +852,16 @@
   <br/>end
   <br/>trouble
 </details>
-
+<details> 
+  <summary><mark><font color=darkred>2021.05.11</font></mark></summary>
+  <br/>bubble
+  <br/>gentle
+  <br/>touch
+  <br/>rhyme
+  <br/>take care of
+  <br/>repeat
+  <br/>all the time
+  <br/>agree
+  <br/>weigh
+  <br/>gram
+</details>

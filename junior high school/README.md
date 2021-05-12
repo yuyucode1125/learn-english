@@ -865,3 +865,17 @@
   <br/>weigh
   <br/>gram
 </details>
+<details> 
+  <summary><mark><font color=darkred>2021.05.12</font></mark></summary>
+  <br/>grow up
+  <br/>noise
+  <br/>fur
+  <br/>paw
+  <br/>basket
+  <br/>noisy
+  <br/>thirsty
+  <br/>honest
+  <br/>secret
+  <br/>joy
+</details>
+

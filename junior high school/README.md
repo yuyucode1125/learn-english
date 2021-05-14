@@ -893,15 +893,15 @@
 </details>
 <details> 
   <summary><mark><font color=darkred>2021.05.14</font></mark></summary>
-  <br/>care about
-  <br/>yourself
-  <br/>teenager
-  <br/>magazine
-  <br/>good-looking
-  <br/>humorous
-  <br/>polite
-  <br/>tidy
-  <br/>trust
-  <br/>joke
+  <br/>generous 
+  <br/>willing
+  <br/>anytime
+  <br/>voice
+  <br/>singer
+  <br/>round
+  <br/>sense
+  <br/>humour
+  <br/>onto
+  <br/>smile
 </details>
 

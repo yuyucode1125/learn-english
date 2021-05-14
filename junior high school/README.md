@@ -891,4 +891,17 @@
   <br/>trust
   <br/>joke
 </details>
+<details> 
+  <summary><mark><font color=darkred>2021.05.14</font></mark></summary>
+  <br/>care about
+  <br/>yourself
+  <br/>teenager
+  <br/>magazine
+  <br/>good-looking
+  <br/>humorous
+  <br/>polite
+  <br/>tidy
+  <br/>trust
+  <br/>joke
+</details>
 

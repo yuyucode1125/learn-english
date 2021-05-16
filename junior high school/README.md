@@ -917,3 +917,16 @@
   <br/>social
   <br/>social worker
 </details>
+<details> 
+  <summary><mark><font color=darkred>2021.05.16</font></mark></summary>
+  <br/>ponytail 
+  <br/>shy
+  <br/>smiling
+  <br/>handsome
+  <br/>hard-working
+  <br/>patient
+  <br/>excellent
+  <br/>keep secret
+  <br/>weight
+  <br/>unhappy
+</details>

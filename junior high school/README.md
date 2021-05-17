@@ -930,3 +930,16 @@
   <br/>weight
   <br/>unhappy
 </details>
+<details> 
+  <summary><mark><font color=darkred>2021.05.17</font></mark></summary>
+  <br/>advertisement 
+  <br/>biscuit
+  <br/>lorry
+  <br/>rubber
+  <br/>eraser
+  <br/>soccer
+  <br/>vacation
+  <br/>store
+  <br/>truck
+  <br/>yard
+</details>

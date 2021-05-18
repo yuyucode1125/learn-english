@@ -932,19 +932,6 @@
 </details>
 <details> 
   <summary><mark><font color=darkred>2021.05.17</font></mark></summary>
-  <br/>movie 
-  <br/>mixed
-  <br/>French
-  <br/>foreign
-  <br/>language
-  <br/>during
-  <br/>discuss
-  <br/>in class
-  <br/>guy
-  <br/>buddy
-</details>
-<details> 
-  <summary><mark><font color=darkred>2021.05.18</font></mark></summary>
   <br/>advertisement 
   <br/>biscuit
   <br/>lorry
@@ -955,4 +942,17 @@
   <br/>store
   <br/>truck
   <br/>yard
+</details>
+<details> 
+  <summary><mark><font color=darkred>2021.05.18</font></mark></summary>
+  <br/>movie 
+  <br/>mixed
+  <br/>French
+  <br/>foreign
+  <br/>language
+  <br/>during
+  <br/>discuss
+  <br/>in class
+  <br/>guy
+  <br/>buddy
 </details>

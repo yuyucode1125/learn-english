@@ -956,3 +956,16 @@
   <br/>guy
   <br/>buddy
 </details>
+<details> 
+  <summary><mark><font color=darkred>2021.05.19</font></mark></summary>
+  <br/>offer 
+  <br/>baseball
+  <br/>win
+  <br/>least
+  <br/>uniform
+  <br/>at most
+  <br/>weekly
+  <br/>quick
+  <br/>look through
+  <br/>real
+</details>

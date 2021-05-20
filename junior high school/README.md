@@ -969,3 +969,16 @@
   <br/>look through
   <br/>real
 </details>
+<details> 
+  <summary><mark><font color=darkred>2021.05.20</font></mark></summary>
+  <br/>at first 
+  <br/>lunchtime
+  <br/>physics
+  <br/>badminton
+  <br/>ideal
+  <br/>finish
+  <br/>further
+  <br/>farther
+  <br/>furthest
+  <br/>farthest
+</details>

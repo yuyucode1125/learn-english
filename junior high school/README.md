@@ -982,3 +982,16 @@
   <br/>furthest
   <br/>farthest
 </details>
+<details> 
+  <summary><mark><font color=darkred>2021.05.21</font></mark></summary>
+  <br/>keep doing something
+  <br/>keep on doing something
+  <br/>come on
+  <br/>ourselves
+  <br/>enjoy oneself
+  <br/>president
+  <br/>steel
+  <br/>ton
+  <br/>fine
+  <br/>join
+</details>

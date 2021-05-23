@@ -1008,3 +1008,16 @@
   <br/>internet
   <br/>page
 </details>
+<details> 
+  <summary><mark><font color=darkred>2021.05.23</font></mark></summary>
+  <br/>home page
+  <br/>yourselves
+  <br/>themselves
+  <br/>by oneself
+  <br/>itself
+  <br/>pull
+  <br/>rock
+  <br/>luckily
+  <br/>climber
+  <br/>final
+</details>

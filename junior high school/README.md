@@ -1021,3 +1021,16 @@
   <br/>climber
   <br/>final
 </details>
+<details> 
+  <summary><mark><font color=darkred>2021.05.24</font></mark></summary>
+  <br/>support
+  <br/>take place
+  <br/>get on
+  <br/>helpless
+  <br/>useful
+  <br/>useless
+  <br/>cheerful
+  <br/>colourful
+  <br/>ticket
+  <br/>arrive at
+</details>

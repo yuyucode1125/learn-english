@@ -1034,3 +1034,16 @@
   <br/>ticket
   <br/>arrive at
 </details>
+<details> 
+  <summary><mark><font color=darkred>2021.05.25</font></mark></summary>
+  <br/>arrive in
+  <br/>places of interest
+  <br/>believe someone's eyes
+  <br/>sight
+  <br/>half-time
+  <br/>can't wait
+  <br/>meaning
+  <br/>take care
+  <br/>instruction
+  <br/>had better
+</details>

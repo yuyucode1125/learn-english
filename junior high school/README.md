@@ -1047,3 +1047,16 @@
   <br/>instruction
   <br/>had better
 </details>
+<details> 
+  <summary><mark><font color=darkred>2021.05.26</font></mark></summary>
+  <br/>tool
+  <br/>glue
+  <br/>rope
+  <br/>scissors
+  <br/>tape
+  <br/>DIY
+  <br/>exactly
+  <br/>stand for
+  <br/>repair
+  <br/>decorate
+</details>

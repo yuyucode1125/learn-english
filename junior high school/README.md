@@ -1060,3 +1060,16 @@
   <br/>repair
   <br/>decorate
 </details>
+<details> 
+  <summary><mark><font color=darkred>2021.05.27</font></mark></summary>
+  <br/>instead of
+  <br/>rose
+  <br/>crazy
+  <br/>be crazy about
+  <br/>terrible
+  <br/>put in
+  <br/>mistake
+  <br/>make a mistake
+  <br/>power
+  <br/>pipe
+</details>

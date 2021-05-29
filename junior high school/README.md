@@ -1086,3 +1086,16 @@
   <br/>grape
   <br/>strawberry
 </details>
+<details> 
+  <summary><mark><font color=darkred>2021.05.29</font></mark></summary>
+  <br/>spoon
+  <br/>salad
+  <br/>mix
+  <br/>add
+  <br/>tip
+  <br/>example
+  <br/>for example
+  <br/>sauce
+  <br/>ham
+  <br/>correct
+</details>

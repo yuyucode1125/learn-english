@@ -1112,3 +1112,16 @@
   <br/>go wrong
   <br/>cut out
 </details>
+<details> 
+  <summary><mark><font color=darkred>2021.05.31</font></mark></summary>
+  <br/>furniture
+  <br/>wild
+  <br/>dish
+  <br/>no way
+  <br/>pity
+  <br/>die
+  <br/>in fact
+  <br/>dolphin
+  <br/>giant panda
+  <br/>squirrel
+</details>

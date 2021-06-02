@@ -13,4 +13,17 @@
   <br/>living
   <br/>result
 </details>
+<details> 
+  <summary>2021.06.02</summary>
+  <br/>as a result
+  <br/>danger
+  <br/>in danger
+  <br/>action
+  <br/>take a action
+  <br/>right away
+  <br/>move
+  <br/>reserve
+  <br/>law
+  <br/>none
+</details>
 

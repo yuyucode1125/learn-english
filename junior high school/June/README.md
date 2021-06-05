@@ -52,4 +52,16 @@
   <br/>tail
   <br/>insect
 </details>
-
+<details> 
+  <summary>2021.06.05</summary>
+  <br/>slowly
+  <br/>daytime
+  <br/>otherwise
+  <br/>have pity on
+  <br/>take pity on
+  <br/>live on
+  <br/>mainly
+  <br/>however
+  <br/>closed
+  <br/>because of
+</details>

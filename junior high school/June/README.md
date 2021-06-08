@@ -91,3 +91,16 @@
   <br/>all year round
   <br/>easily
 </details>
+<details> 
+  <summary>2021.06.08</summary>
+  <br/>cent
+  <br/>per cent
+  <br/>in order to
+  <br/>space
+  <br/>lead
+  <br/>lead to
+  <br/>less and less
+  <br/>moreover
+  <br/>fisherman
+  <br/>government
+</details>

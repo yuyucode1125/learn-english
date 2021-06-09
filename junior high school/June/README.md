@@ -104,3 +104,16 @@
   <br/>fisherman
   <br/>government
 </details>
+<details> 
+  <summary>2021.06.09</summary>
+  <br/>prevent
+  <br/>record
+  <br/>tourist
+  <br/>describe
+  <br/>understand
+  <br/>importance
+  <br/>write down
+  <br/>binoculars
+  <br/>clearly
+  <br/>speaker
+</details>

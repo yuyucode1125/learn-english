@@ -117,3 +117,16 @@
   <br/>clearly
   <br/>speaker
 </details>
+<details> 
+  <summary>2021.06.10</summary>
+  <br/>tour
+  <br/>application
+  <br/>form
+  <br/>address
+  <br/>chairperson
+  <br/>introduce
+  <br/>natural
+  <br/>society
+  <br/>bird-watching
+  <br/>foggy
+</details>

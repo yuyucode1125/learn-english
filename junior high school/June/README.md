@@ -130,3 +130,16 @@
   <br/>bird-watching
   <br/>foggy
 </details>
+<details> 
+  <summary>2021.06.11</summary>
+  <br/>rainy
+  <br/>snowy
+  <br/>butterfly
+  <br/>memory
+  <br/>stream
+  <br/>shade
+  <br/>pile
+  <br/>upon
+  <br/>harvest
+  <br/>crop
+</details>

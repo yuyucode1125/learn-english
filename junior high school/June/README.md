@@ -143,3 +143,16 @@
   <br/>harvest
   <br/>crop
 </details>
+<details> 
+  <summary>2021.06.12</summary>
+  <br/>temperature
+  <br/>drop
+  <br/>rise
+  <br/>kick
+  <br/>fever
+  <br/>wind
+  <br/>snowstorm
+  <br/>sunshine
+  <br/>degree
+  <br/>a bit
+</details>

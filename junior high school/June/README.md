@@ -156,3 +156,16 @@
   <br/>degree
   <br/>a bit
 </details>
+<details> 
+  <summary>2021.06.13</summary>
+  <br/>loud
+  <br/>fog
+  <br/>sleepy
+  <br/>shiny
+  <br/>sudden
+  <br/>snowball
+  <br/>deep
+  <br/>frozen
+  <br/>land
+  <br/>exciting
+</details>

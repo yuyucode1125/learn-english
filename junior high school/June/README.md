@@ -182,3 +182,16 @@
   <br/>earthquake
   <br/>thousands of
 </details>
+<details> 
+  <summary>2021.06.15</summary>
+  <br/>accident
+  <br/>crash
+  <br/>flood
+  <br/>wash away
+  <br/>village
+  <br/>lightning
+  <br/>storm
+  <br/>thunder
+  <br/>catch fire
+  <br/>slight
+</details>

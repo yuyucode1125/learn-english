@@ -195,3 +195,16 @@
   <br/>catch fire
   <br/>slight
 </details>
+<details> 
+  <summary>2021.06.16</summary>
+  <br/>shake
+  <br/>bomb
+  <br/>fear
+  <br/>direction
+  <br/>in all direction
+  <br/>brick
+  <br/>come down
+  <br/>silent
+  <br/>not at all
+  <br/>nervous
+</details>

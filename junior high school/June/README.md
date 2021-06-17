@@ -208,3 +208,16 @@
   <br/>not at all
   <br/>nervous
 </details>
+<details> 
+  <summary>2021.06.17</summary>
+  <br/>heart
+  <br/>beat
+  <br/>trapped
+  <br/>mind
+  <br/>calm
+  <br/>calm down
+  <br/>since
+  <br/>still
+  <br/>at last 
+  <br/>daylight
+</details>

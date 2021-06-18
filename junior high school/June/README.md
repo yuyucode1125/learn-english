@@ -221,3 +221,16 @@
   <br/>at last 
   <br/>daylight
 </details>
+<details> 
+  <summary>2021.06.18</summary>
+  <br/>safe
+  <br/>break down
+  <br/>towel
+  <br/>rule
+  <br/>railway
+  <br/>pancake
+  <br/>son
+  <br/>granddaughter
+  <br/>grandson
+  <br/>weekday
+</details>

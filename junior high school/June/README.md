@@ -234,3 +234,16 @@
   <br/>grandson
   <br/>weekday
 </details>
+<details> 
+  <summary>2021.06.19</summary>
+  <br/>headache
+  <br/>toothache
+  <br/>housework
+  <br/>nearly
+  <br/>find one's way
+  <br/>shaking
+  <br/>used to
+  <br/>ever
+  <br/>grandson
+  <br/>weekday
+</details>

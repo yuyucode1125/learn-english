@@ -247,3 +247,16 @@
   <br/>grandson
   <br/>weekday
 </details>
+<details> 
+  <summary>2021.06.20</summary>
+  <br/>wife
+  <br/>turn into
+  <br/>pollution
+  <br/>factory
+  <br/>waste
+  <br/>realize
+  <br/>improve
+  <br/>situation
+  <br/>in some ways
+  <br/>impossible
+</details>

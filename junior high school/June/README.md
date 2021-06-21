@@ -260,3 +260,16 @@
   <br/>in some ways
   <br/>impossible
 </details>
+<details> 
+  <summary>2021.06.21</summary>
+  <br/>lonely
+  <br/>from time to time
+  <br/>husband
+  <br/>interview
+  <br/>all one's life
+  <br/>yet
+  <br/>recently
+  <br/>environment
+  <br/>transport
+  <br/>return
+</details>

@@ -273,3 +273,16 @@
   <br/>transport
   <br/>return
 </details>
+<details> 
+  <summary>2021.06.22</summary>
+  <br/>abroad
+  <br/>primary
+  <br/>keep in touch
+  <br/>be used to
+  <br/>get used to
+  <br/>narrow
+  <br/>open space 
+  <br/>hey
+  <br/>fantastic
+  <br/>indoor
+</details>

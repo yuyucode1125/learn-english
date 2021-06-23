@@ -286,3 +286,16 @@
   <br/>fantastic
   <br/>indoor
 </details>
+<details> 
+  <summary>2021.06.23</summary>
+  <br/>roller coaster
+  <br/>speed
+  <br/>character
+  <br/>such
+  <br/>such as 
+  <br/>parade
+  <br/>magic
+  <br/>pie
+  <br/>a couple of
+  <br/>at the end of
+</details>

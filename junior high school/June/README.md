@@ -312,3 +312,16 @@
   <br/>mountain
   <br/>at the end of
 </details>
+<details> 
+  <summary>2021.06.25</summary>
+  <br/>on business
+  <br/>direct
+  <br/>flight
+  <br/>point
+  <br/>detail
+  <br/>delicious
+  <br/>seafood
+  <br/>relative
+  <br/>travelling
+  <br/>online
+</details>

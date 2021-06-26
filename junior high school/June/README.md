@@ -325,3 +325,16 @@
   <br/>travelling
   <br/>online
 </details>
+<details> 
+  <summary>2021.06.2</summary>
+  <br/>programme
+  <br/>remote control
+  <br/>ah
+  <br/>channel
+  <br/>keyboard
+  <br/>unit
+  <br/>screen
+  <br/>word processing
+  <br/>receive
+  <br/>guide
+</details>

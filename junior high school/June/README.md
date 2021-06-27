@@ -326,7 +326,7 @@
   <br/>online
 </details>
 <details> 
-  <summary>2021.06.2</summary>
+  <summary>2021.06.26</summary>
   <br/>programme
   <br/>remote control
   <br/>ah
@@ -337,4 +337,17 @@
   <br/>word processing
   <br/>receive
   <br/>guide
+</details>
+<details> 
+  <summary>2021.06.27</summary>
+  <br/>icon
+  <br/>click
+  <br/>Africa
+  <br/>Europe
+  <br/>world-famous
+  <br/>trade
+  <br/>screen
+  <br/>trade
+  <br/>southern
+  <br/>international
 </details>

@@ -364,3 +364,16 @@
   <br/>dream about
   <br/>passport
 </details>
+<details> 
+  <summary>2021.06.29</summary>
+  <br/>sail
+  <br/>opposite
+  <br/>print
+  <br/>pleasure
+  <br/>queen
+  <br/>pound
+  <br/>be made up of
+  <br/>European
+  <br/>dollar
+  <br/>my pleasure
+</details>

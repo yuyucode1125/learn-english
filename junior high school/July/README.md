@@ -26,3 +26,16 @@
   <br/>publish
   <br/>so far
 </details>
+<details> 
+  <summary><mark>2021.07.03</mark></summary>
+  <br/>Canadian
+  <br/>at a time 
+  <br/>hidden
+  <br/>confidence
+  <br/>experience
+  <br/>librarian
+  <br/>habit
+  <br/>classical
+  <br/>open up
+  <br/>tried out
+</details>

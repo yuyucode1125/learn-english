@@ -39,3 +39,16 @@
   <br/>open up
   <br/>tried out
 </details>
+<details> 
+  <summary><mark>2021.07.04</mark></summary>
+  <br/>eh
+  <br/>litter
+  <br/>tap
+  <br/>obey
+  <br/>queue
+  <br/>proper
+  <br/>greet
+  <br/>shake hands with sb
+  <br/>kiss
+  <br/>avoid
+</details>

@@ -52,3 +52,16 @@
   <br/>kiss
   <br/>avoid
 </details>
+<details> 
+  <summary><mark>2021.07.05</mark></summary>
+  <br/>behave
+  <br/>public
+  <br/>in public
+  <br/>push
+  <br/>push in
+  <br/>bump
+  <br/>excuse
+  <br/>excuse me
+  <br/>saying
+  <br/>Roman
+</details>

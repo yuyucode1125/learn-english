@@ -65,3 +65,16 @@
   <br/>saying
   <br/>Roman
 </details>
+<details> 
+  <summary><mark>2021.07.06</mark></summary>
+  <br/>by accident
+  <br/>discussion
+  <br/>express
+  <br/>explain
+  <br/>warn
+  <br/>parking
+  <br/>successful
+  <br/>sometime
+  <br/>soon after
+  <br/>risk
+</details>

@@ -78,3 +78,16 @@
   <br/>soon after
   <br/>risk
 </details>
+<details> 
+  <summary><mark>2021.07.07</mark></summary>
+  <br/>worm
+  <br/>pain
+  <br/>gain
+  <br/>indeed
+  <br/>practice
+  <br/>host
+  <br/>purpose
+  <br/>content
+  <br/>conclusion
+  <br/>risk
+</details>

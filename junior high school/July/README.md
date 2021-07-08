@@ -91,3 +91,16 @@
   <br/>conclusion
   <br/>risk
 </details>
+<details> 
+  <summary><mark>2021.07.08</mark></summary>
+  <br/>above all
+  <br/>impolite
+  <br/>manner
+  <br/>cut in on
+  <br/>in someone's way
+  <br/>as well
+  <br/>keep from
+  <br/>the Olympic Games
+  <br/>elderly
+  <br/>homeless
+</details>

@@ -104,3 +104,16 @@
   <br/>elderly
   <br/>homeless
 </details>
+<details> 
+  <summary><mark>2021.07.09</mark></summary>
+  <br/>expect
+  <br/>adult
+  <br/>intellectual
+  <br/>meaningful
+  <br/>blind
+  <br/>disabled
+  <br/>disability
+  <br/>event
+  <br/>similar
+  <br/>give up
+</details>

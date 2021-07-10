@@ -117,3 +117,16 @@
   <br/>similar
   <br/>give up
 </details>
+<details> 
+  <summary><mark>2021.07.10</mark></summary>
+  <br/>necessary
+  <br/>training
+  <br/>task
+  <br/>athlete
+  <br/>gold
+  <br/>silver
+  <br/>confident
+  <br/>closely
+  <br/>achieve
+  <br/>prize
+</details>

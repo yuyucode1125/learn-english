@@ -119,6 +119,19 @@
 </details>
 <details> 
   <summary><mark>2021.07.10</mark></summary>
+  <br/>necessary
+  <br/>training
+  <br/>task
+  <br/>athlete
+  <br/>gold
+  <br/>silver
+  <br/>confident
+  <br/>closely
+  <br/>achieve
+  <br/>prize
+</details>
+<details> 
+  <summary><mark>2021.07.11</mark></summary>
   <br/>donate
   <br/>charity
   <br/>organization
@@ -129,4 +142,17 @@
   <br/>operation
   <br/>survivor
   <br/>south-west
+</details>
+<details> 
+  <summary><mark>2021.07.12</mark></summary>
+  <br/>north-west
+  <br/>charity
+  <br/>especially
+  <br/>equal
+  <br/>spread
+  <br/>interviewer
+  <br/>mostly
+  <br/>case
+  <br/>cure
+  <br/>medical
 </details>

@@ -156,3 +156,16 @@
   <br/>cure
   <br/>medical
 </details>
+<details> 
+  <summary><mark>2021.07.13</mark></summary>
+  <br/>treatment
+  <br/>on board
+  <br/>operate
+  <br/>proud
+  <br/>reader
+  <br/>medicine
+  <br/>develop
+  <br/>carry on
+  <br/>leaflet
+  <br/>hand out
+</details>

@@ -169,3 +169,16 @@
   <br/>leaflet
   <br/>hand out
 </details>
+<details> 
+  <summary><mark>2021.07.14</mark></summary>
+  <br/>set
+  <br/>set up
+  <br/>including
+  <br/>war
+  <br/>organize
+  <br/>pale
+  <br/>matter
+  <br/>secretary
+  <br/>make up one's mind
+  <br/>India
+</details>
